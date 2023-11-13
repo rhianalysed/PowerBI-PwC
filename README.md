@@ -12,3 +12,10 @@ Identified critical areas for improvement, incorporated them into the homepage, 
 ![Churn Dashboard 1](https://github.com/rhianalysed/PowerBI-PwC/assets/126081588/e0f5abfa-4d67-4cf2-b5bc-e787315fac3a)
 
 ![Churn Dashboard 2](https://github.com/rhianalysed/PowerBI-PwC/assets/126081588/c1459635-df91-43af-a3fb-53efddf963be)
+
+### HR Dashboard: 
+Defined and created impactful visualizations for pertinent KPIs related to hiring, promotion, performance, and turnover, facilitating improved understanding and strategic decision-making.
+
+![Hiring Information](https://github.com/rhianalysed/PowerBI-PwC/assets/126081588/06ef1693-e860-4b17-9c9d-1db802e6185d)
+
+![Promotion and Turnover Information](https://github.com/rhianalysed/PowerBI-PwC/assets/126081588/a7ad0de2-bb91-4dd3-b916-82a637a82472)
